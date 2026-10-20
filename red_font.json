@@ -1,0 +1,34 @@
+{
+  "name": "Red Font Pack",
+  "description": "Custom red theme and font overrides for Kettu",
+  "authors": [
+    {
+      "name": "User",
+      "id": "0"
+    }
+  ],
+  "spec": 3,
+  "semanticColors": {
+    "TEXT_NORMAL": [
+      "RED_LIGHT",
+      "RED_LIGHT"
+    ],
+    "TEXT_MUTED": [
+      "RED_DARK",
+      "RED_DARK"
+    ],
+    "HEADER_PRIMARY": [
+      "RED_BRIGHT",
+      "RED_BRIGHT"
+    ]
+  },
+  "rawcolors": {
+    "RED_BRIGHT": "#FF3333",
+    "RED_LIGHT": "#FF6666",
+    "RED_DARK": "#990000"
+  },
+  "fonts": {
+    "PRIMARY": "https://gstatic.com",
+    "DISPLAY": "https://gstatic.com"
+  }
+}
